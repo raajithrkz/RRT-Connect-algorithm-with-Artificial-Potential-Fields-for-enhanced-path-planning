@@ -1,0 +1,2 @@
+# RRT-Connect-algorithm-with-Artificial-Potential-Fields-for-enhanced-path-planning
+There have been attempts to address the random ness, blindness, and low efficiency issues with RRT Connect using  a variety of approaches. This report describes how artificial  potential fields were used to overcome the issue. It validates the outcomes and puts into practice a potential fix offered in RRT connect algorithm.
