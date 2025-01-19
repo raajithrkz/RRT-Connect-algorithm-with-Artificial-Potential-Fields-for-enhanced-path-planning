@@ -47,9 +47,13 @@ This script contains an implementation of the Rapidly-exploring Random Trees con
 Enter the attractive force constant (C): 10
 
 Enter the repulsive force constant (K): 5
+
 Enter the obstacle radius of influence (R): 2
+
 Enter the starting point (x, y): 2,2
+
 Enter the goal point (x, y): 48,24
+
 Time:7.199061870574951 	 Path length:73.73739875422808
 
 ### **Note**
